@@ -19,13 +19,13 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 # Projetos
 
-## [InStyle - Classificação de Clientes](https://github.com/caiocasagrande/instyle)
+## [InStyle - Classificação de Clientes](https://github.com/caiocasagrande/instyle) ⭐
 
 👖 A loja de moda InStyle é uma grande loja de roupas, mas enfrenta desafios significativos em relação à experiência do cliente. Em vista de que para aumentar as receitas de uma loja é necessário priorizar a satisfação dos clientes, a InStyle montou uma equipe com a tarefa de treinar um algoritmo para classificar os clientes de uma planilha em “Satisfeito” ou “Neutro/Insatisfeito”, prevendo quais clientes ficarão Insatisfeitos e portanto agindo rápido para entender o motivo da insatisfação e reverter o cenário do cliente.
 
 👔 Os objetivos são: Gerar insights através dos dados; Produzir informações visuais sobre a base de clientes da empresa; Classificar e identificar os clientes insatisfeitos através de um algoritmo de Machine Learning.
 
-## [Rossmann - Previsão de Vendas](https://github.com/caiocasagrande/rossmann)
+## [Rossmann - Previsão de Vendas](https://github.com/caiocasagrande/rossmann) ⭐
 
 🔭 Neste projeto foi desenvolvido um modelo de previsão de vendas para as seis semanas seguintes com o objetivo de prever quanto dinheiro cada loja da Rossmann terá disponível para gastar em suas reformas.
 
