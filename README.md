@@ -41,6 +41,15 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 - **Resultado:** Através de uma Análise Exploratória de Dados completa, a empresa obteve insights valiosos sobre os fatores que influenciam as vendas, fornecendo uma base sólida para a tomada de decisões. Em conclusão, este projeto entregou com sucesso um Modelo de Previsão de Vendas, a fim de otimizar a alocação de recursos para renovações de lojas Rossmann.
 
+## 🫀 [Cardiovascular Disease Detector](https://github.com/caiocasagrande/cardiovascular_disease) ⭐
+<sub>[lang:en-US]</sub>
+
+- **O Negócio:** Cardio Catch Disease é uma empresa de saúde especializada no diagnóstico de doenças cardiovasculares em estágios iniciais. Seu modelo de negócio oferece esse diagnóstico precoce de doenças cardiovasculares por um determinado preço. O problema é que a precisão do diagnóstico varia entre 55% e 65%, refletindo a sua complexidade e a limitada disponibilidade de médicos. O modelo de precificação para o diagnóstico custa $ 500 para cada aumento de 5% na precisão acima de 50%.
+
+- **Objetivo:** Criar um modelo que melhore a precisão do diagnóstico de forma estável e eficiente para todos os clientes. O que entregar: 1) a precisão do modelo; 2) qual a receita do novo modelo?; 3) quão confiáveis são os resultados da nova ferramenta?
+
+- **Resultados:** A precisão do modelo agora está em 75%, o que gera uma receita de $ 173.665.751,75. Considerando a precisão anterior de 65%, quando a receita era por volta de $105 milhões, o novo modelo gera um incremento de $ 68.665.751,75 ou um aumento de 65%. Quão confiáveis são os resultados da nova ferramenta? As outras métricas do modelo são Precisão: 72,3%, Recall: 65,8%, F1-Score: 70%.
+
 ## 💳 [Score de Crédito](https://github.com/caiocasagrande/bank_credit_score)
 <sub>[lang:en-US]</sub>
 
