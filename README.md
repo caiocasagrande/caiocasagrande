@@ -1,6 +1,6 @@
 # Caio Casagrande 👋🏼
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiopc) [![Portfólio de Dados](https://img.shields.io/badge/Portfólio%20de%20Dados-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://caiocasagrande.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiopc) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopcasagrande@gmail.com) [![Portfólio de Dados](https://img.shields.io/badge/Portfólio%20de%20Dados-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://caiocasagrande.github.io/portfolio/)
 
 ## Sobre mim
   
@@ -9,6 +9,22 @@
 Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e ajudar empresas a lidar com os processos de tomada de decisão de negócios.
 
 ## Habilidades Técnicas
+<!-- Ferramentas -->
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Skills -->
 - Linguagens de programação: Python, R, SQL
 - Feature Engineering: Encoding, Scaling, Imputers, Resampling
 - Machine Learning: Regressão, Classificação, Cross-Validation, Hyperparameter Tuning, Random Search
@@ -16,6 +32,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - Visualização: Power BI, Streamlit Dashboards
 - Cloud: AWS (Glue, S3, Athena, SageMaker)
 - Habilidades Profissionais: Inglês Avançado, Pacote Office
+
 
 
 # Projetos
