@@ -72,7 +72,13 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 - **Problema de Negócio:** Com as novas tecnologias, a indústria de táxis precisou se reinventar para não ficar para trás em relação aos seus novos concorrentes. Um dos desafios é o novo sistema eletrônico de despacho em tempo real, o qual não define o destino final das corridas. **Em razão desse problema, a proposta é desenvolver um modelo preditivo que seja capaz de inferir o destino final de corridas de táxi com base em suas localizações de coleta.**
 - **Objetivos:** Entender o problema de negócio; Análise dos dados das viagens; Modelo de previsão de ponto de destino; PowerPoint descrevendo o problema e conclusões.
-- **Performances:** O modelo final (LightGBM) performou bem e com resultados satisfatórios (erro <= 1 km). Para o negócio, os benefícios são: minimização de quilometragem vazia, maior satisfação do cliente, otimização de recursos, mais viagens em menos tempo, planejamento operacional e vantagem competitiva frente aos aplicativos.
+- **Performances:** O modelo final (LightGBM) performou bem e com resultados satisfatórios (erro <= 1 km). Para o negócio, os benefícios são: minimização de quilometragem vazia, maior satisfação do cliente, otimização de recursos, mais viagens em menos tempo, planejamento operacional e vantagem competitiva frente aos aplicativos. 
+
+## 🛍️ [Além do "Você também pode gostar": desconstruindo as escolhas do consumidor](https://github.com/caiocasagrande/customer_behavior)
+<sub>[lang:en-US]</sub>
+
+- Market Basket Analysis
+- Recommendation System
 
 ## 💳 [Score de Crédito](https://github.com/caiocasagrande/bank_credit_score)
 <sub>[lang:en-US]</sub>
