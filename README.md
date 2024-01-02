@@ -81,6 +81,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - **Resultados:** 1) A EDA revelou insights sobre as compras, produtos, comportamento temporal dos consumidores e a relação entre preço e quantidade 2) A **Análise de Cesta de Mercado** identificou padrões de associação entre os produtos, classificando aqueles frequentemente comprados juntos 3) O **Sistema de Recomendação** gerou sugestões de produtos para clientes com base na sua similaridade com outros.
 - **Benefícios:** 1) O projeto equipa a Rex London com informações para aprimorar a experiência do cliente, oferecendo recomendações personalizadas 2) Potencial **aumento nas vendas**, aproveitando associações entre produtos identificadas na Análise de Cesta de Mercado 3) O Sistema de Recomendação oferece sugestões específicas para cada cliente, **maximizando a relevância das recomendações**.
 
+<!--
 ## 💳 [Score de Crédito](https://github.com/caiocasagrande/bank_credit_score)
 <sub>[lang:en-US]</sub>
 
@@ -102,7 +103,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - **O projeto:** Um modelo de detecção de fraude com <u>Análise Exploratória de Dados</u>, preparação de dados com *Encoders*, *Scalers* e balanceamento de dados com SMOTE. Os modelos de *Machine Learning* testados foram: *Logistic Regression*, *Decision Tree Classifier* e *Random Forest Classifier*. O melhor modelo foi usado para buscar os melhores parâmetros com *RandomizedSearchCV*.
 
 - **Resultado final:** Os melhores parâmetros foram utilizados para rodar o modelo novamente e retornaram os seguintes resultados: Acurácia: 0,9743, Precisão: 0,9662, Recall: 0,9828 e F1 Score: 0,9744. O alto resultado de Recall dá confiança para seguir com esse modelo nas próximas etapas do projeto da instituição financeira, identificando uma fraude quando necessário.
-
+-->
 ## 💵 [Elasticidade Preço da Demanda](https://github.com/caiocasagrande/price_elasticity_of_demand)
 <sub>[lang:en-US]</sub>
 
@@ -113,7 +114,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - **Resultado:** O projeto conta com uma <u>Análise Exploratória de Dados</u> com vários *insights* e termina com uma tabela onde temos os nomes dos produtos, a renda que geram atualmente, a variação de faturamento que podem gerar em valores monetários e em porcentagem.
 
 - **Link para o Dashboard:** [StreamlitApp](https://price-elasticity-caio-casagrande.streamlit.app/)
-
+<!--
 ## 💳 [Score de Crédito](https://github.com/caiocasagrande/credit_score)
 <sub>[lang:en-US]</sub>
 
@@ -122,7 +123,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - **Objetivo:** Executar uma análise de pontuação de crédito para aumentar a rentabilidade de um banco conservador. Para realizar esse projeto, o primeiro passo foi realizar uma <u>Análise Exploratória de Dados detalhada</u> para entendermos melhor a base de dados e como ela está distribuída. Após *Data Cleaning* e *Feature Engineering*, o projeto focou em implementar e comparar três modelos de *Machine Learning* para classificar os clientes em decis.
 
 - **Resultado:** O resultado final é uma tabela com os clientes separados em decis. As informações mais relevantes em cada divisão são: quantidade de clientes envolvida, quantos são bons, quantos são ruins, porcentagem de maus clientes evitada e o lucro que cada seleção de clientes proporciona. 
-
+-->
 ## 📊 [Análise Exploratória de Dados para Olist](https://github.com/caiocasagrande/olist_eda) 
 <sub>[lang:en-US]</sub>
 
