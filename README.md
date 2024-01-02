@@ -76,9 +76,10 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 ## 🛍️ [Além do "Você também pode gostar": desconstruindo as escolhas do consumidor](https://github.com/caiocasagrande/customer_behavior)
 <sub>[lang:en-US]</sub>
-
-- Market Basket Analysis
-- Recommendation System
+- **A Empresa:** A Rex London, uma varejista de comércio eletrônico no Reino Unido, busca aumentar o engajamento e aprimorar a experiência do cliente. O desafio é entender quais produtos são frequentemente comprados juntos, visando construir um sistema de recomendação personalizado.
+- **Objetivos:** 1) Realizar uma Análise Exploratória de Dados (EDA) para entender padrões de comportamento 2) Utilizar a **Análise de Cesta de Mercado** para identificar associações entre produtos 3) Desenvolver um **Sistema de Recomendação** baseado na similaridade entre clientes.
+- **Resultados:** 1) A EDA revelou insights sobre as compras, produtos, comportamento temporal dos consumidores e a relação entre preço e quantidade 2) A **Análise de Cesta de Mercado** identificou padrões de associação entre os produtos, classificando aqueles frequentemente comprados juntos 3) O **Sistema de Recomendação** gerou sugestões de produtos para clientes com base na sua similaridade com outros.
+- **Benefícios:** 1) O projeto equipa a Rex London com informações para aprimorar a experiência do cliente, oferecendo recomendações personalizadas 2) Potencial **aumento nas vendas**, aproveitando associações entre produtos identificadas na Análise de Cesta de Mercado 3) O Sistema de Recomendação oferece sugestões específicas para cada cliente, **maximizando a relevância das recomendações**.
 
 ## 💳 [Score de Crédito](https://github.com/caiocasagrande/bank_credit_score)
 <sub>[lang:en-US]</sub>
