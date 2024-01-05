@@ -37,6 +37,16 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 # Projetos
 
+## 📈 [Usando ARIMA para prever a receita da Olist](https://github.com/caiocasagrande/arima_revenue) ⭐
+<sub>[lang:en-US]</sub>
+
+- **Problema de Negócio:** A Olist encontrou um desafio na gestão das suas receitas devido a flutuações imprevistas nas vendas. Eles esperavam vender muito mais nesta época do ano e fatores externos tornaram difícil para a empresa antecipar sua situação financeira.
+- **Objetivos:** Para resolver este problema, o gestor de dados sugeriu a utilização da metodologia de Séries Temporais univariada ARIMA (Autoregressive Integrated Moving Average) para prever a receita das duas semanas seguintes. O objetivo principal é fornecer ao Olist modelos de previsão robustos, capazes de prever receitas para os próximos 14 dias.
+- **Resultados:** Foram executadas três funções: Auto ARIMA, ARIMA e SARIMA. Em geral, os modelos produziram bons resultados com pequenos erros relativos para os próximos quatorze dias de receita.
+- **Benefícios:** Agora, munida de modelos de previsão com baixos erros, a Olist pode prever receitas a fim de melhorar sua organização financeira, otimizar os recursos necessários e planejar investimentos para o futuro.
+
+📃 Read more about the project on [Medium](https://medium.com/@caiocasagrande/using-arima-in-python-to-forecast-olist-revenue-3e19fbe6e424)
+
 ## 👖 [InStyle - Classificação de Clientes](https://github.com/caiocasagrande/instyle) ⭐
 <sub>[lang:pt-BR]</sub>
 
