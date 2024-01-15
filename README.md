@@ -74,7 +74,7 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 - **Resultados:** A precisão do modelo agora está em 75%, o que gera uma receita de $173.665.751,75. Considerando a precisão anterior de 65%, quando a receita era por volta de $105 milhões, o novo modelo gera um incremento de $68.665.751,75 ou um aumento de 65%. Quão confiáveis são os resultados da nova ferramenta? As outras métricas do modelo são Precisão: 72,3%, Recall: 65,8%, F1-Score: 70%.
 
-## 📈 [Rossmann - Previsão de Vendas](https://github.com/caiocasagrande/rossmann) ⭐
+## 📈 [Rossmann - Previsão de Vendas](https://github.com/caiocasagrande/rossmann)
 <sub>[lang:en-US]</sub>
 
 - **Problema de Negócio:** O CEO da rede de farmácias Rossmann planeja renovar as suas lojas pois a marca está passando por um *rebranding*, mas não sabe o quanto cada uma terá a disposição para investir nas reformas. 
