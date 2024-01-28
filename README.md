@@ -58,13 +58,6 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 - **Benefícios Tangíveis:** elevação da satisfação do cliente, fidelização e retenção, direcionamento eficiente de marketing, otimização de custos e otimização do fluxo de trabalho.
 
-## 🚕 [Previsão do destino de táxis](https://github.com/caiocasagrande/taxi) ⭐
-<sub>[lang:pt-BR]</sub>
-
-- **Problema de Negócio:** Com as novas tecnologias, a indústria de táxis precisou se reinventar para não ficar para trás em relação aos seus novos concorrentes. Um dos desafios é o novo sistema eletrônico de despacho em tempo real, o qual não define o destino final das corridas. **Em razão desse problema, a proposta é desenvolver um modelo preditivo que seja capaz de inferir o destino final de corridas de táxi com base em suas localizações de coleta.**
-- **Objetivos:** Entender o problema de negócio; Análise dos dados das viagens; Modelo de previsão de ponto de destino; PowerPoint descrevendo o problema e conclusões.
-- **Performances:** O modelo final (LightGBM) performou bem e com resultados satisfatórios (erro <= 1 km). Para o negócio, os benefícios são: minimização de quilometragem vazia, maior satisfação do cliente, otimização de recursos, mais viagens em menos tempo, planejamento operacional e vantagem competitiva frente aos aplicativos. 
-
 ## 🫀 [Cardiovascular Disease Detector](https://github.com/caiocasagrande/cardiovascular_disease) ⭐
 <sub>[lang:en-US]</sub>
 
@@ -73,6 +66,13 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 - **Objetivo:** Criar um modelo que melhore a precisão do diagnóstico de forma estável e eficiente para todos os clientes. O que entregar: 1) a precisão do modelo; 2) qual a receita do novo modelo?; 3) quão confiáveis são os resultados da nova ferramenta?
 
 - **Resultados:** A precisão do modelo agora está em 75%, o que gera uma receita de $173.665.751,75. Considerando a precisão anterior de 65%, quando a receita era por volta de $105 milhões, o novo modelo gera um incremento de $68.665.751,75 ou um aumento de 65%. Quão confiáveis são os resultados da nova ferramenta? As outras métricas do modelo são Precisão: 72,3%, Recall: 65,8%, F1-Score: 70%.
+
+## 🚕 [Previsão do destino de táxis](https://github.com/caiocasagrande/taxi)
+<sub>[lang:pt-BR]</sub>
+
+- **Problema de Negócio:** Com as novas tecnologias, a indústria de táxis precisou se reinventar para não ficar para trás em relação aos seus novos concorrentes. Um dos desafios é o novo sistema eletrônico de despacho em tempo real, o qual não define o destino final das corridas. **Em razão desse problema, a proposta é desenvolver um modelo preditivo que seja capaz de inferir o destino final de corridas de táxi com base em suas localizações de coleta.**
+- **Objetivos:** Entender o problema de negócio; Análise dos dados das viagens; Modelo de previsão de ponto de destino; PowerPoint descrevendo o problema e conclusões.
+- **Performances:** O modelo final (LightGBM) performou bem e com resultados satisfatórios (erro <= 1 km). Para o negócio, os benefícios são: minimização de quilometragem vazia, maior satisfação do cliente, otimização de recursos, mais viagens em menos tempo, planejamento operacional e vantagem competitiva frente aos aplicativos. 
 
 ## 📈 [Rossmann - Previsão de Vendas](https://github.com/caiocasagrande/rossmann)
 <sub>[lang:en-US]</sub>
