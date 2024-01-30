@@ -67,6 +67,17 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 
 - **Resultados:** A precisão do modelo agora está em 75%, o que gera uma receita de $173.665.751,75. Considerando a precisão anterior de 65%, quando a receita era por volta de $105 milhões, o novo modelo gera um incremento de $68.665.751,75 ou um aumento de 65%. Quão confiáveis são os resultados da nova ferramenta? As outras métricas do modelo são Precisão: 72,3%, Recall: 65,8%, F1-Score: 70%.
 
+## 🗃️ [Clusterização de clientes para campanha de marketing](https://github.com/caiocasagrande/mkt_campaign_clustering)
+<sub>[lang:pt-BR]</sub>
+
+- **Problema de Negócio:** O desafio central é aprimorar estratégias de negócios e marketing. Assim, realizando a clusterização dos clientes através do algoritmo K-Means, torna-se possível entender os comportamentos dos clientes e personalizar estratégias.
+
+- **Objetivo Principal:** Segmentar clientes em clusters distintos com o K-Means, entender seus comportamentos, preferências e aprimorar o direcionamento de estratégias para cada grupo.
+
+- **Resultados:** Insights sobre os clientes cadastrados e informações valiosas sobre os grupos de clusters. Estratégias de campanhas personalizadas para cada um, ajustes de produtos e preços de acordo com suas preferências e como abordar cada grupo de cliente.
+
+- **Benefícios:** Os benefícios incluem estratégias de marketing mais eficazes, personalização de abordagens, melhor experiência para o cliente e otimização de recursos para potencializar o impacto nos negócios.
+
 ## 🚕 [Previsão do destino de táxis](https://github.com/caiocasagrande/taxi)
 <sub>[lang:pt-BR]</sub>
 
