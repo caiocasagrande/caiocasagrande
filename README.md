@@ -21,29 +21,9 @@ Presently, I'm involved in a project aimed at understanding the recent expansion
 
 I am currently seeking opportunities to transition into a professional role in the data field, where I can contribute to companies' business decision-making processes.
 
-## Technical Skills
-<!-- Ferramentas -->
-<div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-</div>
+# My Work
 
-<br/>
-
-<!-- Skills -->
-- Programming Languages: Python, R, SQL
-- Feature Engineering: Encoding, Scaling, Imputers, Resampling
-- Machine Learning: Regression, Classification, Clustering, Cross-Validation, Hyperparameter Tuning, Random Search
-- Metrics: Confusion Matrix, Accuracy, Precision, Recall, F1 Score, MAE, MAPE, RMSE, R²
-- Visualization: Power BI, Streamlit Dashboards
-- Cloud: AWS (Glue, S3, Athena, SageMaker)
-- Professional Skills: Advanced English, Microsoft Office
-
+Here I highlight some of the projects I have worked on throughout my professional career. 
 
 ## Econometrics using Python
 
@@ -93,6 +73,28 @@ I'm passionate about leveraging data to solve business problems. Here are some o
 
 All my projects are structured around solving business problems, employing regression, clustering, and classification algorithms to deliver optimal solutions. You can read more about them on my [Portfolio Page](caiocasagrande.github.io/portfolio) and find the codes on their repositories.
 
-## Additional Skills
 
-In addition to my data expertise, I'm proficient in English and experienced in using the Microsoft Office suite. I am a proactive individual that is willing to learn new skills and work in a fast-paced and collaborative environment.
+## Technical Skills
+<!-- Ferramentas -->
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Skills -->
+- Programming Languages: Python, R, SQL
+- Feature Engineering: Encoding, Scaling, Imputers, Resampling
+- Machine Learning: Regression, Classification, Clustering, Cross-Validation, Hyperparameter Tuning, Random Search
+- Metrics: Confusion Matrix, Accuracy, Precision, Recall, F1 Score, MAE, MAPE, RMSE, R²
+- Visualization: Power BI, Streamlit Dashboards
+- Cloud: AWS (Glue, S3, Athena, SageMaker)
+- Professional Skills: Advanced English, Microsoft Office
+
+
