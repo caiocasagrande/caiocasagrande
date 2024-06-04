@@ -8,7 +8,10 @@
 
 ### Academic Background
 
-Master's degree in Applied Economics from the Graduate Program in Organizations and Markets (PPGOM) and a Bachelor's degree in Agricultural Engineering from the Federal University of Pelotas (UFPel).
+- Master's degree in **Applied Economics** with a focus on **time series** and **spatial econometrics**. The [dissertation](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?id_trabalho=14649207) analyzes how Brazilian soybean exports relate to macroeconomic variables, providing insights into the economic impacts of global changes.
+
+- Bachelor's degree in Agricultural Engineering with a focus on agribusiness. For my final project, I used R to create **price forecasting models** for key agricultural commodities using the **ARIMA** methodology, published in the [Journal of Economics and Agribusiness](https://doi.org/10.25070/rea.v20i3.14292).
+
 
 ### Professional Experiences
 
@@ -17,7 +20,7 @@ I'm a proactive individual that is willing to learn new skills and work in a fas
 
 ### Current Focus
 
-Presently, I'm involved in a project aimed at understanding the recent expansion of dengue fever in the Brazilian Legal Amazon. This involves exploring how various social determinants of health—economic, social, environmental, geographic, and cultural factors—have contributed to the spread of the disease. My role includes identifying space-time trends and analyzing data to uncover insights crucial for addressing this public health challenge.
+Presently, I'm involved in a project aimed at understanding the recent expansion of **dengue fever in the Brazilian Legal Amazon**. This involves exploring how various social determinants of health—economic, social, environmental, geographic, and cultural factors—have contributed to the spread of the disease. My role includes identifying space-time trends and analyzing data to uncover insights crucial for addressing this public health challenge.
 
 I am currently seeking opportunities to transition into a professional role in the data field, where I can contribute to companies' business decision-making processes.
 
