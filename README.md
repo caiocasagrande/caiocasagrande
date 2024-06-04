@@ -4,7 +4,8 @@
 
 ## About Me
 
- I'm a data and technology enthusiast with experience in **Market Analysis** and **Business Analysis**. I hold a **Master's degree in Applied Economics** from the Graduate Program in Organizations and Markets (PPGOM) and a **Bachelor's degree in Agricultural Engineering** from the Federal University of Pelotas (UFPel). Currently, I work as a Data Analyst and Researcher in Industrial Technological Development, focusing on problem-solving and data-driven approaches.
+I am currently a **Data Analyst and Researcher** on a [CNPq](https://www.gov.br/cnpq/pt-br) project, studying the expansion of dengue fever in the Brazilian Legal Amazon to identify spatiotemporal patterns. Previously, I analyzed the dynamics of the ethanol market for [Ipiranga](https://portal.ipiranga/)'s intelligence sector. With a strong academic background in mathematics, statistics, and econometrics, alongside a passion for data science, I'm looking for opportunities to contribute to companies' business decision-making processes in the data area.
+
 
 ### Academic Background
 
@@ -15,7 +16,7 @@
 
 ### Professional Experiences
 
-During my time at [Ipiranga](https://portal.ipiranga/), I was responsible for analyzing and communicating market information, particularly focusing on ethanol market dynamics for the Supply & Trading team. In addition to my data expertise, I'm proficient in English and experienced in using the Microsoft Office suite. 
+During my time at Ipiranga, I was responsible for analyzing and communicating market information, particularly focusing on ethanol market dynamics for the Supply & Trading team. In addition to my data expertise, I'm proficient in English and experienced in using the Microsoft Office suite. 
 I'm a proactive individual that is willing to learn new skills and work in a fast-paced and collaborative environment.
 
 ### Current Focus
