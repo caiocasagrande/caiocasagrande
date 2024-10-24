@@ -7,26 +7,28 @@
 
 ## About Me
 
-I am currently a **Data Analyst and Researcher** on a [CNPq](https://www.gov.br/cnpq/pt-br) project, studying the expansion of dengue fever in the Brazilian Legal Amazon to identify spatiotemporal patterns. Previously, I analyzed the dynamics of the ethanol market for [Ipiranga](https://portal.ipiranga/)'s intelligence sector. With a strong academic background in mathematics, statistics, and econometrics, alongside a passion for data science, I'm looking for opportunities to contribute to companies' business decision-making processes in the data area.
+**Researcher Data Scientist** with over 3 years of experience in data, specializing in **time series forecasting**, causal inference and spatial analysis using Python.
 
+I have professional experience in market and business data analysis, which has contributed to the development of strong analytical and data communication skills.
+
+My Master’s degree in Applied Economics provided me with a solid foundation in statistical and mathematical modeling, as well as research skills. My undergraduate degree in engineering developed my ability to solve complex problems and learn autonomously.
+
+I work on data science projects utilizing Machine Learning models in Python, covering areas such as sales forecasting, demand price elasticity, as well as customer classification and clustering. These projects demonstrate my ability to apply algorithms with best coding practices to extract insights and guide strategic decisions.
 
 ### Academic Background
 
-- Master's degree in **Applied Economics** with a focus on **time series** and **spatial econometrics**. The [dissertation](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?id_trabalho=14649207) analyzes how Brazilian soybean exports relate to macroeconomic variables, providing insights into the economic impacts of global changes.
+- Master's degree in **Applied Economics** with a focus on **time series** and **spatial econometrics**. The [dissertation](https://wp.ufpel.edu.br/ppgom/files/2024/07/versao_final_dissertacao_caio_casagrande_ppgom.pdf) analyzes how Brazilian soybean exports relate to macroeconomic variables, providing insights into the economic impacts of global changes.
 
 - Bachelor's degree in Agricultural Engineering with a focus on agribusiness. For my final project, I used R to create **price forecasting models** for key agricultural commodities using the **ARIMA** methodology, published in the [Journal of Economics and Agribusiness](https://doi.org/10.25070/rea.v20i3.14292).
 
 
 ### Professional Experiences
 
+Currently working on the expansion of dengue fever in the Brazilian Legal Amazon to identify spatiotemporal patterns. Previously, I analyzed the dynamics of the ethanol market for [Ipiranga](https://portal.ipiranga/)'s intelligence sector.
+
 During my time at Ipiranga, I was responsible for analyzing and communicating market information, particularly focusing on ethanol market dynamics for the Supply & Trading team. In addition to my data expertise, I'm proficient in English and experienced in using the Microsoft Office suite. 
+
 I'm a proactive individual that is willing to learn new skills and work in a fast-paced and collaborative environment.
-
-### Current Focus
-
-Presently, I'm involved in a project aimed at understanding the recent expansion of **dengue fever in the Brazilian Legal Amazon**. This involves exploring how various social determinants of health—economic, social, environmental, geographic, and cultural factors—have contributed to the spread of the disease. My role includes identifying space-time trends and analyzing data to uncover insights crucial for addressing this public health challenge.
-
-I am currently seeking opportunities to transition into a professional role in the data field, where I can contribute to companies' business decision-making processes.
 
 # My Work
 
