@@ -1,40 +1,37 @@
 # Caio Casagrande 👋🏼
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiopc) 
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopcasagrande@gmail.com) 
 [![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://caiocasagrande.github.io/portfolio/about/about_me.html) 
 [![Data Portfolio](https://img.shields.io/badge/Portfólio%20de%20Dados%20(PT%20BR)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://caiocasagrande.github.io/portfolio/)
 
 ## About Me
 
-**Researcher Data Scientist** with over 3 years of experience in data, specializing in **time series forecasting**, causal inference and spatial analysis using Python.
+**Data Scientist** with over 3 years of experience in data, specializing in **time series forecasting**, causal inference and spatial analysis using Python.
 
-I have professional experience in market and business data analysis, which has contributed to the development of strong analytical and data communication skills.
+<!-- I have professional experience in market and business data analysis, which has contributed to the development of strong analytical and data communication skills. 
 
 My Master’s degree in Applied Economics provided me with a solid foundation in statistical and mathematical modeling, as well as research skills. My undergraduate degree in engineering developed my ability to solve complex problems and learn autonomously.
 
-I work on data science projects utilizing Machine Learning models in Python, covering areas such as sales forecasting, demand price elasticity, as well as customer classification and clustering. These projects demonstrate my ability to apply algorithms with best coding practices to extract insights and guide strategic decisions.
+I work on data science projects utilizing Machine Learning models in Python, covering areas such as sales forecasting, demand price elasticity, as well as customer classification and clustering. These projects demonstrate my ability to apply algorithms with best coding practices to extract insights and guide strategic decisions. -->
 
-### Academic Background
+## Professional Experiences
 
-- Master's degree in **Applied Economics** with a focus on **time series** and **spatial econometrics**. The [dissertation](https://wp.ufpel.edu.br/ppgom/files/2024/07/versao_final_dissertacao_caio_casagrande_ppgom.pdf) analyzes how Brazilian soybean exports relate to macroeconomic variables, providing insights into the economic impacts of global changes.
+- Data Scientist at [Minerva Foods](https://www.linkedin.com/company/minerva-sa/about/), focusing on time series.
+- Research Data Scientist for a CNPq project.
+- Market Intelligence Analyst at [Ipiranga S.A.](https://www.linkedin.com/company/petroleo-ipiranga/about/)
+
+## Academic Background
+
+- Master's degree in **Applied Economics** with a focus on **time series** and **spatial econometrics**. The [dissertation](https://wp.ufpel.edu.br/ppgom/files/2024/07/versao_final_dissertacao_caio_casagrande_ppgom.pdf) analyzes how Brazilian soybean exports relate to macroeconomic variables, providing insights into the economic impacts of global changes through a multivariate time series methodology.
 
 - Bachelor's degree in Agricultural Engineering with a focus on agribusiness. For my final project, I used R to create **price forecasting models** for key agricultural commodities using the **ARIMA** methodology, published in the [Journal of Economics and Agribusiness](https://doi.org/10.25070/rea.v20i3.14292).
 
+<!--
+## My Work
 
-### Professional Experiences
+Here I highlight some **personal** projects I have worked on throughout my professional career. 
 
-Currently working on the expansion of dengue fever in the Brazilian Legal Amazon to identify spatiotemporal patterns. Previously, I analyzed the dynamics of the ethanol market for [Ipiranga](https://portal.ipiranga/)'s intelligence sector.
-
-During my time at Ipiranga, I was responsible for analyzing and communicating market information, particularly focusing on ethanol market dynamics for the Supply & Trading team. In addition to my data expertise, I'm proficient in English and experienced in using the Microsoft Office suite. 
-
-I'm a proactive individual that is willing to learn new skills and work in a fast-paced and collaborative environment.
-
-# My Work
-
-Here I highlight some of the projects I have worked on throughout my professional career. 
-
-## Econometrics using Python
+### Econometrics using Python
 
 In addition to my data science work, I also have a strong interest in econometrics. Here are some of my econometric projects:
 
@@ -42,13 +39,11 @@ In addition to my data science work, I also have a strong interest in econometri
 
 - **[Price Elasticity of Demand Analysis](https://github.com/caiocasagrande/price_elasticity_of_demand):** Analyzed price-demand elasticity to understand how price variations impact consumer demand for elastic products. This project provides a brief overview of how this economic theory can be applied to real-world scenarios and be a valuable resource for businesses. [Explore the insights with StreamlitApp](https://price-elasticity-caio-casagrande.streamlit.app/). 
 
-These projects showcase my expertise in applying econometric techniques to real-world problems, particularly in forecasting and demand analysis.
-
-## Data Science Portfolio
+### Data Science Portfolio
 
 I'm passionate about leveraging data to solve business problems. Here are some of my recent projects:
 
-### Classification Projects
+#### Classification Projects
 
 - **[InStyle - Customer Classification](https://github.com/caiocasagrande/instyle):** Used different Machine Learning algorithms to train and predict customer satisfaction. The project provided insights and recommendations to classify customers and **predict** dissatisfaction, enabling InStyle to address customer satisfaction issues and improve overall experience.
 
@@ -60,27 +55,25 @@ I'm passionate about leveraging data to solve business problems. Here are some o
 
 - **[Taxi Destination Prediction](https://github.com/caiocasagrande/taxi):** Developed a predictive model to infer the final destination of taxi rides, reducing empty mileage and optimizing operational planning.
 
-### Clustering Projects
+#### Clustering Projects
 
 - **[Customer Clustering for Marketing Campaign](https://github.com/caiocasagrande/mkt_campaign_clustering):** The goal is to enhance business and marketing strategies by clustering customers using the **K-Means** algorithm. This helps understand customer behaviors and preferences, enabling personalized strategies for each group. Benefits include more effective marketing, better customer experience, and optimized resource allocation for maximum business impact.
 
-### Recommendation System
+#### Recommendation System
 
 - **[Beyond "*You May Also Like*": Understanding Consumer Choices](https://github.com/caiocasagrande/customer_behavior):** Conducted an **Exploratory Data Analysis** to understand purchases, products, consumer temporal behavior, and the price-quantity relationship. Used **Market Basket Analysis** to identify association patterns among products, classifying those frequently bought together, and **Recommendation System** to generate product suggestions for customers based on their similarity to others. This project equips Rex London with information to enhance customer experience through personalized recommendations, potentially increasing sales.
 
-### Finance Projects
+#### Finance Projects
 
 - [Credit Score](https://github.com/caiocasagrande/bank_credit_score): Built an internal risk model to optimize profitability and business security while balancing market expansion, providing key insights on loan approval strategies through credit score decile analysis. [Streamlit](https://credit-scoring-bank-caio-casagrande.streamlit.app/).
 
 - [Fraud Detection](https://github.com/caiocasagrande/fraud_detection): Developed a fraud detection model using Exploratory Data Analysis, data preparation techniques, and various Machine Learning models, achieving high ***accuracy*** and ***recall*** to confidently identify fraud.
 
-- [Credit Score Analysis](https://github.com/caiocasagrande/credit_score): Conducted a comprehensive credit score analysis to increase bank profitability by implementing and comparing Machine Learning models, resulting in a detailed client decile classification for optimal profit and risk management.
-
-## Data Analysis Projects
+### Data Analysis Projects
 
 - **[Exploratory Data Analysis for Olist](https://github.com/caiocasagrande/olist_eda):** Performed a comprehensive exploratory data analysis for Olist, uncovering key business insights related to consumer behavior, customer satisfaction, sales patterns, and regional differences across states. The analysis provided quality and actionable informations to support strategic decision-making.
 
-All my projects are structured around solving business problems, employing regression, clustering, and classification algorithms to deliver optimal solutions. You can read more about them on my [Portfolio Page](caiocasagrande.github.io/portfolio) and find the codes on their repositories.
+All my projects are structured around solving business problems, employing regression, clustering, and classification algorithms to deliver optimal solutions. You can read more about them on my [Portfolio Page](caiocasagrande.github.io/portfolio) and find the codes on their repositories. -->
 
 
 ## Technical Skills
@@ -99,11 +92,8 @@ All my projects are structured around solving business problems, employing regre
 
 <!-- Skills -->
 - Programming Languages: Python, R, SQL
-- Feature Engineering: Encoding, Scaling, Imputers, Resampling
-- Machine Learning: Regression, Classification, Clustering, Cross-Validation, Hyperparameter Tuning, Random Search
-- Metrics: Confusion Matrix, Accuracy, Precision, Recall, F1 Score, MAE, MAPE, RMSE, R²
-- Visualization: Power BI, Streamlit Dashboards
-- Cloud: AWS (Glue, S3, Athena, SageMaker)
+- Visualization: Power BI
+- Cloud: Databricks, AWS
 - Professional Skills: Advanced English, Microsoft Office
 
 
